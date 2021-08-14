@@ -10,3 +10,5 @@ line9 file2
 line10 file2
 new line one
 new line two
+first new line
+second new line
