@@ -8,3 +8,5 @@ line7 file2
 line8 file2
 line9 file2
 line10 file2
+new line one
+new line two
