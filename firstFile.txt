@@ -1,14 +1,7 @@
-<<<<<<< Updated upstream
 change from 2 folder
 another change from 2 folder
 line3 file1
 line4 file1
-=======
-line1 file1
-line2 file1
-change from 1 folder 
-another change from 1 folder
->>>>>>> Stashed changes
 line5 file1
 line6 file1
 line7 file1
